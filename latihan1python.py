@@ -1,0 +1,3 @@
+print ("Assalamu'alaikum")
+print ("Let me introduce my self. My name is Yusuf Putra Bintang Satria. But you can call me Yusuf/Bintang/Satria. My NPM is 312110317. I was born in Jakarta and I am 18 years old. I am very glad if you want to invite my house in Jl. Jagasatru Asrama Brimob rt 001/008 Desa Hegarmukti Kec. Cikarang Pusat Kab. Bekasi. So don't forget to call me before with the number 082124262822")
+print ("Thank you")
